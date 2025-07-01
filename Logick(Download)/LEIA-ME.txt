@@ -1,0 +1,17 @@
+COMO JOGAR (Só funciona em Windows)
+Faça o download da pasta "Jogo", faça a extração e clique no ícone com a bandeira chamado "tcc" para iniciar o jogo.
+
+Atenção: o seu computador pode exibir um aviso de segurança por não reconhecer o desenvolvedor. Caso isso aconteça, basta clicar em "Mais informações" e depois em "Executar mesmo assim". Pode ficar tranquilo, o jogo é seguro e não contém vírus 🥹🙏
+
+SOBRE O JOGO
+Olá! Sou Leonardo, o desenvolvedor do Logick.
+Este jogo foi criado com o objetivo de auxiliar estudantes do ensino médio no desenvolvimento de habilidades relacionadas ao Pensamento Computacional, um dos eixos temáticos da nova Base Nacional Comum Curricular (BNCC).
+
+Em Logick, o seu objetivo em cada fase é conduzir o personagem até a linha de chegada. Para isso, você deve posicionar corretamente as peças de movimentação (setas) disponíveis. Também é possível selecioná-las utilizando as setas do teclado.
+
+O jogo conta com uma aba de tutoriais, caso surjam dúvidas sobre o funcionamento dos botões ou elementos.
+
+SOBRE OS DADOS
+Este jogo coleta dados anônimos que serão utilizados exclusivamente para análise e discussão dos resultados no artigo do TCC. Nenhuma informação pessoal é coletada.
+
+Agradeço por jogar e espero que se divirta! 

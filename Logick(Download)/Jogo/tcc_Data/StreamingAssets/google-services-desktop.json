@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "606769437367",
+    "firebase_url": "https://logick-90362-default-rtdb.firebaseio.com",
+    "project_id": "logick-90362",
+    "storage_bucket": "logick-90362.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606769437367:android:664d7823a4316fe98dcb32",
+        "android_client_info": {
+          "package_name": "com.Leos.tcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA3VFZ826e2P2yE5db84ROAwOr_oCxbfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
